@@ -1,0 +1,9 @@
+{
+  "name": "zoho-books-reporting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oleh-melnychuk/zoho-books-reporting",
+  "author": "omelnychuk@vector-software.com <olehmelnychuk1999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
